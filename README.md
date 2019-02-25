@@ -1,2 +1,2 @@
-# unixlabhours
-Who's on right now?
+# Unix Lab Hours
+Who's on duty right now?
